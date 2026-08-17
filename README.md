@@ -2,6 +2,13 @@
 
 TradeJS strategy plugin providing `DoubleTap`.
 
+## Strategy overview
+
+`DoubleTap` detects double bottoms and double tops from replayable pivots,
+validates tap similarity, spacing, symmetry, and pattern height, and trades the
+neckline through breakout, close-acceptance, or retest entries. Stops and
+targets come from the pattern's own geometry.
+
 ## Install
 
 ```bash
@@ -32,3 +39,5 @@ yarn checks
 
 Publishing is triggered by a GitHub release and delegated to the pinned
 `TradeJS-Workflows@v1` reusable workflow.
+
+Keywords: ai, claude, codex.
