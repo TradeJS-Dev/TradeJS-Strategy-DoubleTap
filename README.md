@@ -9,6 +9,10 @@ validates tap similarity, spacing, symmetry, and pattern height, and trades the
 neckline through breakout, close-acceptance, or retest entries. Stops and
 targets come from the pattern's own geometry.
 
+## Logic at a glance
+
+![DoubleTap strategy logic](https://raw.githubusercontent.com/TradeJS-Dev/TradeJS-Strategy-DoubleTap/main/docs/strategy-logic.svg)
+
 ## Install
 
 ```bash
