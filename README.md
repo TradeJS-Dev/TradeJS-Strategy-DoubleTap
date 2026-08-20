@@ -13,6 +13,15 @@ targets come from the pattern's own geometry.
 
 ![DoubleTap strategy logic](https://raw.githubusercontent.com/TradeJS-Dev/TradeJS-Strategy-DoubleTap/main/docs/strategy-logic.svg)
 
+## Signal on an example chart
+
+The example shows two comparable pivot lows, their intervening neckline, and the confirmed neckline break that activates the bullish reversal.
+
+![DoubleTap signal on an illustrative ticker chart](https://raw.githubusercontent.com/TradeJS-Dev/TradeJS-Strategy-DoubleTap/main/docs/signal-example.svg)
+
+The illustration is schematic, not market data. Exact thresholds, confirmation
+rules, and risk parameters come from the active TradeJS strategy config.
+
 ## Install
 
 ```bash
