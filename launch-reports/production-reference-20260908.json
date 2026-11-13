@@ -1,0 +1,25 @@
+{
+  "schema": "tradejs-launch-report/v1",
+  "strategy": "DoubleTap",
+  "candidate": "Production gate retrospective",
+  "sourceSha256": "84459b1843f0a78096639a3ca19726837233bb4e35380d38095a02e3c5df6116",
+  "metrics": {
+    "trades": 544,
+    "pnl": 951.5900000000003,
+    "maxDrawdown": 174.5599999999999,
+    "maxLossStreak": 11,
+    "profitFactor": 1.331370486962336,
+    "winRatePercent": 46.69117647058824,
+    "maxDrawdownDurationDays": 475.21875
+  },
+  "researchRiskUsdt": 10,
+  "note": "Retrospective research of the production configuration. The original launch decision has not been matched to these results.",
+  "period": {
+    "start": 1616004000000,
+    "end": 1788804000000
+  },
+  "chart": {
+    "caption": "Historical cumulative P&L and drawdown from peak, in USDT.",
+    "sha256": "5b99709a7e0381b960451d8b29a0d67836462205c1902d5f91905c07a638514d"
+  }
+}
