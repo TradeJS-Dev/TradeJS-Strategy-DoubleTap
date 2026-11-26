@@ -1,6 +1,6 @@
 {
   "name": "@tradejs/strategy-double-tap",
-  "version": "3.0.6",
+  "version": "3.0.7",
   "description": "DoubleTap watches for a reversal after price tests roughly the same level twice.",
   "type": "module",
   "packageManager": "yarn@4.13.0",
