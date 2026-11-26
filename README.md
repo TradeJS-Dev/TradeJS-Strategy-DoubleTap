@@ -1,6 +1,10 @@
 # @tradejs/strategy-double-tap
 
-TradeJS strategy plugin providing `DoubleTap`.
+DoubleTap watches for a reversal after price tests roughly the same level
+twice. A double top or double bottom is the setup, and a break of the
+intervening level confirms it.
+
+[See examples and configuration in the TradeJS Marketplace](https://tradejs.dev/marketplace/double-tap).
 
 ## Strategy overview
 
